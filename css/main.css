@@ -128,7 +128,7 @@ figcaption{
     height: 600px;
       /* height: auto; */
     background:  #ddccff;
-    background-image: url("../img/background1.JPG");
+    background-image: url("../img/background1.jpg");
     background-size: cover !important;
 
 }
@@ -140,7 +140,7 @@ figcaption{
     height: 600px;
       /* height: auto; */
     background:  #110033;
-    background-image: url("../img/background2.JPG");
+    background-image: url("../img/background2.jpg");
     background-size: cover !important;
 
 }
